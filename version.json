@@ -1,7 +1,7 @@
 {
   "ultima_version": "1.0.2",
-  "url_descarga": "https://github.com/esumalave3-cmyk/sistema-ventas-updates/releases/download/V1.0.2/Sistema_Comercial_ES_v1.0_Setup.exe",
-  "notas_cambio": "• Unificación de colores en módulos de configuración\n• Mejoras visuales en Tasas de Cambio\n• Correcciones menores de estabilidad",
+  "url_descarga": "https://github.com/esumalave3-cmyk/sistema-ventas-updates/releases/download/V1.0.2/Sistema_Comercial_v1.0.2_Setup.exe",
+  "notas_cambio": "• Sistema de actualizaciones automaticas\n• Unificacion de colores en modulos de configuracion\n• Mejoras visuales en Tasas de Cambio",
   "forzar_actualizacion": false,
   "fecha_publicacion": "2026-11-25"
 }
